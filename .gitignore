@@ -1,0 +1,21 @@
+# Generated audit output — NEVER commit (contains the scanned machine's
+# hostname, accounts, open ports, drivers, etc.)
+Win-Audit-Report.txt
+Win-Audit-Report.json
+Win-Audit-Report.html
+Win-Audit-Report.md
+Win-Audit-Remediation.txt
+Win-Audit.log
+Win-Test-Report.*
+
+# Any stray logs / transcripts
+*.log
+PSTranscripts/
+
+# OS / editor cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+.vs/
+.vscode/
+*.swp
