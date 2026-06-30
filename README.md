@@ -100,6 +100,14 @@ third-party AV is your primary engine — that's expected, not a gap). Verify
 anything important against the authoritative source before acting. Bug reports
 and check fixes are very welcome — see [CONTRIBUTING](CONTRIBUTING.md).
 
+## Support
+
+If Win-Audit saved you time, you can support development with a coffee:
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T5L622BXC6)
+
+GitHub sponsorships are also available via the **Sponsor** button at the top of the repo.
+
 ## Disclaimer
 
 Provided "as is", without warranty (see [LICENSE](LICENSE)). The remediation
