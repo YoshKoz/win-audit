@@ -9,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)](#requirements)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/YoshKoz/win-audit?style=social)](https://github.com/YoshKoz/win-audit/stargazers)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/T5L622BXC6)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/yoshkoz)
 
 One script runs **50+ security checks** across **30+ categories**, computes a
 **Hardening Index (0–100)**, and writes console + Text + JSON + Markdown + HTML
@@ -151,7 +151,7 @@ specific Windows editions/configs. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 If Win-Audit saved you time, you can support development with a coffee:
 
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T5L622BXC6)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yoshkoz)
 
 GitHub sponsorships are also available via the **Sponsor** button at the top of the repo.
 
